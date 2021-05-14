@@ -7,13 +7,20 @@ And data can be retrived easily from the database
 
 To get the service avail
 First step:
-   we have to scrap the details from the website and store it in the database
-   for that to happen run the commands
+
+   we have to scrap the details from the website and store it in the database.
+   for that to happen run the commands.
    1) go build main.go
    2) ./main
+
+
 Second step:
-   To retrive the content from the database first we have to on the server and open the web-link and retrive the data
+
+   To retrive the content from the database first we have to on the server and open the web-link and retrive the data.
+   
    1)go build server.go
+   
    2)./server
-   3)Finally you can choose any browser and enter the link (https://localhost:8080/newedit) 
+   
+Finally you can choose any browser and enter the link (http://localhost:8080/newedit) .
 And to get any data enter corresponding details in the form to retrive data.
