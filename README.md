@@ -25,4 +25,4 @@ Second step:
 Finally you can choose any browser and enter the link (http://localhost:8080/newedit) .
 And to get any data enter corresponding details in the form to retrive data.
 
-AND TO GET MORE UNDERSTANDING YOU CAN REFER TO 
+AND TO GET MORE UNDERSTANDING YOU CAN REFER TO (https://github.com/CS17B/distrubuted_Systems_Assignment_4/blob/main/CS17B010_REPORT_Distrubuted-Systems-Assignment_4.pdf)
