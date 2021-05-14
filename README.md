@@ -24,3 +24,5 @@ Second step:
    
 Finally you can choose any browser and enter the link (http://localhost:8080/newedit) .
 And to get any data enter corresponding details in the form to retrive data.
+
+AND TO GET MORE UNDERSTANDING YOU CAN REFER TO 
