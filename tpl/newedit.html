@@ -1,0 +1,42 @@
+{{ define "newedit" }}
+<!DOCTYPE html>
+<html>
+    <div><h1>INTERNSHALA  </h1></div>
+<head>
+
+
+      <link rel="stylesheet" href="x.css">
+</head>
+<style>
+    body {
+       background-image: url( "http://www.simpleimageresizer.com/_uploads/photos/2126e13a/2_16_1525x850.png" ) 
+    }
+  </style>
+    <body>
+         <form action="/view" method="POST">
+   
+<div><span><b>INTERNSHIP CATEGORY</b></span></div>
+<br>
+<div><select id="ddlModels" name="o">
+    <option value="1">Job_Title</option>
+    <option value="2">Company_Name</option>
+    <option value="3">Location</option>
+    <option value="4">Duration</option>
+    <option value="5">Stipend</option>
+</select></div><br>
+<br>
+
+<div><label for="n"><b>DETAILS OF CATEGORY</b> </label></div>
+    <div><input name="n" type="name" /></div><br>
+
+    <br>
+    <div><input type="submit" value="Submit"></div>
+    <br>
+</form>
+</body>
+</html>
+{{ end }}
+
+
+     
+    
